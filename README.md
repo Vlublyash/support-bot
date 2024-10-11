@@ -1,2 +1,2 @@
-# tradebot
-tradebot in telegram
+# support bot
+support bot in telegram
