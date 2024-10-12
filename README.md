@@ -1,2 +1,2 @@
-# support bot
-support bot in telegram
+## Guides
+# [RU version](./readme_ru.md) / [EN version](./readme_en.md)
