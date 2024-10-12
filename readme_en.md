@@ -6,7 +6,7 @@ npm install node-telegram-bot-api
 ```
 step #2 - create forum chat
 
-step #3 - confings bot
+step #3 - setting up the bot
 ```javascript
 const token = `you-token-from-@botfather`;
 
@@ -18,3 +18,6 @@ steo #4 - start bot
 ```text
 node bot.js
 ```
+
+
+bot, support, feedback, telegrambot
