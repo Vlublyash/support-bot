@@ -1,9 +1,10 @@
-## Guide (EN version)
+## Guide (RU version)
 
 step #1 - npm install
 ```text
 npm install node-telegram-bot-api
 ```
+
 step #2 - Создать форум чат
 
 step #3 - настроить бота
@@ -18,3 +19,6 @@ steo #4 - запустить
 ```text
 node bot.js
 ```
+
+
+bot, support, feedback, telegrambot
